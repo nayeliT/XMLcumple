@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XMLcumple</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="fecha">Fecha: </string>
+    <string name="fecha2">Dato2 </string>
+    <string name="nombre">Nombre: </string>
+    <string name="nombre2">Dato3 </string>
+
+    <string name="title_activity_lista_fiesta">lista_fiesta</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_cumple_individual">Individual_cumple</string>
+</resources>
